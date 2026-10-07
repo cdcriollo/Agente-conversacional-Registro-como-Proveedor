@@ -1,0 +1,93 @@
+﻿[
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B3",
+    "etiqueta": "Razón social",
+    "celda_valor": "C3",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B4",
+    "etiqueta": "Tipo de sociedad",
+    "celda_valor": "C4",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B5",
+    "etiqueta": "NIT",
+    "celda_valor": "C5",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B6",
+    "etiqueta": "Dígito verificación",
+    "celda_valor": "C6",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B7",
+    "etiqueta": "Dirección",
+    "celda_valor": "C7",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B8",
+    "etiqueta": "Ciudad",
+    "celda_valor": "C8",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B9",
+    "etiqueta": "País",
+    "celda_valor": "C9",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B10",
+    "etiqueta": "Correo electrónico",
+    "celda_valor": "C10",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Proveedor",
+    "celda_etiqueta": "B11",
+    "etiqueta": "Representante legal",
+    "celda_valor": "C11",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda_etiqueta": "B3",
+    "etiqueta": "Banco",
+    "celda_valor": "C3",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda_etiqueta": "B4",
+    "etiqueta": "Tipo cuenta",
+    "celda_valor": "C4",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda_etiqueta": "B5",
+    "etiqueta": "Número cuenta",
+    "celda_valor": "C5",
+    "obligatorio": true
+  },
+  {
+    "hoja": "Datos Bancarios",
+    "celda_etiqueta": "B6",
+    "etiqueta": "Titular de la cuenta",
+    "celda_valor": "C6",
+    "obligatorio": true
+  }
+]

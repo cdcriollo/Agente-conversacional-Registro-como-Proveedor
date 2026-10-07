@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Registro como Proveedor — Reto 01</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <main class="app">
+    <h1>Agente de Registro como Proveedor</h1>
+    <p class="subtitle">Modo local — Mock LLM</p>
+
+    <div class="quick">
+      <button data-case="co-industrias-delta">Industrias Delta</button>
+      <button data-case="ec-corp-andina">Corp. Andina</button>
+      <button data-case="hn-agroexport-sula">Agroexport Sula</button>
+      <button data-case="pa-logistica-istmo">Logística Istmo</button>
+    </div>
+
+    <section id="chat"></section>
+
+    <form id="form">
+      <input id="message" placeholder="Ej.: Analiza la solicitud co-industrias-delta" autocomplete="off">
+      <button>Enviar</button>
+    </form>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

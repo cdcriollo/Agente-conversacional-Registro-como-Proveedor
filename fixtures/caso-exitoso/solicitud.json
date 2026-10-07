@@ -1,0 +1,14 @@
+{
+  "id": "caso-exitoso",
+  "de": "compras@cliente-ficticio.com",
+  "para": "recepcion@periferia-ficticia.com",
+  "asunto": "Solicitud de registro como proveedor",
+  "fecha": "2026-08-25",
+  "pais": "CO",
+  "cliente": "Cliente Ficticio S.A.S.",
+  "formato": "xlsx",
+  "cuerpo": "Solicitud ficticia para validar el flujo exitoso de registro de proveedor.",
+  "adjuntos": [
+    "Formato_Proveedores.xlsx"
+  ]
+}
